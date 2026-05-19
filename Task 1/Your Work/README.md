@@ -229,41 +229,7 @@ CSMS is a standalone web application integrating with external services such as 
 
 **CONTEXT DIAGRAM**
 
--   Shows interaction between customers, service technicians, managers, and external systems (payment gateways, suppliers).
-    
-
-**ACTIVITY DIAGRAM**
-
--   Illustrates the workflow of booking a service appointment and completing vehicle maintenance.
-    
-
-**USE CASE DIAGRAMS**
-
--   Page 1: Customer booking service
-    
--   Page 2: Technician service logging
-    
--   Page 3: Manager monitoring and reporting
-    
--   Page 4: Admin inventory management
-    
-
-**SEQUENCE DIAGRAM**
-
--   Appointment booking and service completion sequence.
-    
-
-**ENTITY-RELATIONSHIP DIAGRAM**
-
--   Vehicles, Customers, Appointments, Services, Parts, Invoices.
-    
-
-**STATE DIAGRAM**
-
--   Vehicle service lifecycle: Booked → In Progress → Completed → Billed → Closed
-    
-
-----------
+<img src="images/carm.png">
 
 ## 5. System Evolution
 
