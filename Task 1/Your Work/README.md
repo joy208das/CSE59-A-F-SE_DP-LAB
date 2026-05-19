@@ -7,13 +7,7 @@ This document provides the Software Requirements Specification (SRS) for the Car
 **Version History**
 
 -   Version 1.0 – Initial Draft
-    
--   Version 1.1 – Added non-functional requirements and system models
-    
--   Version 1.2 – Refined system evolution and glossary
-    
 
-----------
 
 ## 1. Introduction
 
