@@ -1,1 +1,20 @@
+class ContestStats {
+    
+    int[] scores = {100,85,25};
+    
+    void printFirstScore(){
+        System.out.println(scores[0]);
+        
+    }
+}
 
+public class Main{
+  public static void main(String[] args){
+      
+      ContestStats stats = new ContestStats();
+      stats.printFirstScore();
+
+      
+  }   
+    
+}
