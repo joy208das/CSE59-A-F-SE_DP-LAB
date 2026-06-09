@@ -1,20 +1,19 @@
-
-class printer {
-    void printdata(string text){
-        System.out.println("text: "+text);
+class Printer {
+    void printData(String text) {
+        System.out.println("Text: " + text);
     }
-    
-    void printdata(int number){
-        System.out.println("number: "+number);
+
+    void printData(int number) {
+        System.out.println("Number: " + number);
     }
 }
 
+public class Main {
 
-public class Main{
-    
-    public static void main(String[] args){
-        printer print = new printer();
-        print.printdata("joy");
-        print.printdata(100);
+    public static void main(String[] args) {
+        Printer print = new Printer();
+
+        print.printData("joy");
+        print.printData(100);
     }
 }
